@@ -1,0 +1,12 @@
+body{
+    background-color: slategray;
+}
+h1,p,li{
+    color: rgb(94, 4, 179);
+}
+h2{
+    color: cornflowerblue;
+}
+a{
+    color: palevioletred;
+}
